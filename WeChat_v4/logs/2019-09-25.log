@@ -1,0 +1,13 @@
+2019-09-25 16:06:37,501 	File "utils.py"[line:19] INFO url:http://127.0.0.1:5000/send_table
+2019-09-25 16:06:37,501 	File "utils.py"[line:19] INFO copywriting:您好，xx小时报请查收：
+2019-09-25 16:06:37,501 	File "utils.py"[line:19] INFO table:<table border='1' cellspacing='0'>        <tr><td>&nbsp;</td><td colspan='5' align='center'>2019-08-15</td><td colspan='5' align='center'>2019-08-16</td><td>&nbsp;</td></tr>        <tr>           <td>端口</td><td>时间</td><td>消费(现金)</td><td>激活数</td><td>账户成本</td><td>实际成本（安卓友盟/iosba)</td><th>时间</th><th>消费(现金)</th><th>激活数</th><th>账户成本</th><td>实际成本（安卓友盟/iosba)</td><th>同比</th></tr><tr><td rowspan='1'>安卓1</td><td>11:00</td><td align='right'>24432.01</td><td align='right'>1562</td><td align='right'>15.64</td><td align='right'>&nbsp;</td><td>11:00</td><td align='right'>24481.09</td><td align='right'>1410</td><td align='right'>17.36</td><td align='right'>&nbsp;</td><td align='right'>11.00%</td></tr><tr><td rowspan='1'>安卓2</td><td>11:00</td><td align='right'>3051.89</td><td align='right'>152</td><td align='right'>20.08</td><td align='right'>&nbsp;</td><td>11:00</td><td align='right'>3456.02</td><td align='right'>172</td><td align='right'>20.09</td><td align='right'>&nbsp;</td><td align='right'>0.07%</td></tr><tr><td rowspan='1'>Ios1</td><td>11:00</td><td align='right'>0.00</td><td align='right'>18</td><td align='right'>0.00</td><td align='right'>&nbsp;</td><td>11:00</td><td align='right'>0.00</td><td align='right'>9</td><td align='right'>0.00</td><td align='right'>&nbsp;</td><td align='right'>100.00%</td></tr><tr><td rowspan='1'>Ios2</td><td>11:00</td><td align='right'>12666.49</td><td align='right'>452</td><td align='right'>28.02</td><td align='right'>&nbsp;</td><td>11:00</td><td align='right'>8194.94</td><td align='right'>315</td><td align='right'>26.02</td><td align='right'>&nbsp;</td><td align='right'>-7.16%</td></tr></table>
+2019-09-25 16:06:37,501 	File "utils.py"[line:19] INFO room:测试2
+2019-09-25 16:06:39,640 	File "_internal.py"[line:87] INFO 127.0.0.1 - - [25/Sep/2019 16:06:39] "POST /send_table HTTP/1.1" 200 -
+2019-09-25 16:06:42,310 	File "utils.py"[line:19] INFO url:http://127.0.0.1:5000/send_text
+2019-09-25 16:06:42,310 	File "utils.py"[line:19] INFO copywriting:您好，xx小时报请查收:
+2019-09-25 16:06:42,311 	File "utils.py"[line:19] INFO text:安卓付费截止目前消耗: 47634.88
+快应用付费+免费截止目前消耗: 5000.00
+安卓免费截止目前消耗: 8111.22
+截止目前总消耗: 129872.59
+2019-09-25 16:06:42,311 	File "utils.py"[line:19] INFO room:测试2
+2019-09-25 16:06:42,311 	File "_internal.py"[line:87] INFO 127.0.0.1 - - [25/Sep/2019 16:06:42] "POST /send_text HTTP/1.1" 200 -

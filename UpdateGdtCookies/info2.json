@@ -1,0 +1,3466 @@
+{
+    "retcode": 200,
+    "retdesc": "成功",
+    "data": [
+        {
+            "accountId": "103",
+            "companyId": "8",
+            "username": "原生-广州数融4A18KA1432",
+            "password": "Mango0625",
+            "channelType": "baidu_feed",
+            "status": "0",
+            "appId": "41pg8vkwjv2e",
+            "customId": null
+        },
+        {
+            "accountId": "104",
+            "companyId": "8",
+            "username": "原生-广州数融5A18KA1432",
+            "password": "Mango0625",
+            "channelType": "baidu_feed",
+            "status": "0",
+            "appId": "41pg8vkwjv2e",
+            "customId": null
+        },
+        {
+            "accountId": "111",
+            "companyId": "24",
+            "username": "shixingzhe@mango-go.com",
+            "password": "Dxm123@mango",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "4zrboh6vc3k1",
+            "customId": null
+        },
+        {
+            "accountId": "114",
+            "companyId": "25",
+            "username": "2486276636@qq.com",
+            "password": "yingke@123Hz",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4zyad6xdjrpd",
+            "customId": null
+        },
+        {
+            "accountId": "116",
+            "companyId": "18",
+            "username": "liuhuanyu@mango-go.com",
+            "password": "WSgg@2018",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4sb1ficn1dz5",
+            "customId": null
+        },
+        {
+            "accountId": "118",
+            "companyId": "18",
+            "username": "miaoyusheng@mango-go.com",
+            "password": "WSgg@2018",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "4sb1ficn1dz5",
+            "customId": null
+        },
+        {
+            "accountId": "119",
+            "companyId": "18",
+            "username": "dailin@mango-go.com",
+            "password": "WSgg@2018",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4sb1ficn1dz5",
+            "customId": null
+        },
+        {
+            "accountId": "120",
+            "companyId": "27",
+            "username": "zhongping@mango-go.com",
+            "password": "Tjj123@mango",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "52z03q4ddwqo",
+            "customId": null
+        },
+        {
+            "accountId": "121",
+            "companyId": "27",
+            "username": "978595337@qq.com",
+            "password": "WSgg@2018",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "52z03q4ddwqo",
+            "customId": null
+        },
+        {
+            "accountId": "123",
+            "companyId": "24",
+            "username": "18500410087@163.com",
+            "password": "Dxm123@mango",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "4zrboh6vc3k1",
+            "customId": null
+        },
+        {
+            "accountId": "124",
+            "companyId": "28",
+            "username": "shiweiyu@mango-go.com",
+            "password": "Yl123@mango",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "5366ahdacetd",
+            "customId": null
+        },
+        {
+            "accountId": "126",
+            "companyId": "29",
+            "username": "chenyazhou@mango-go.com",
+            "password": "Max123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "59hysvd4a5u1",
+            "customId": null
+        },
+        {
+            "accountId": "127",
+            "companyId": "30",
+            "username": "梦想加",
+            "password": "mengxiangjia2018",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "59ibjqajtwcl",
+            "customId": null
+        },
+        {
+            "accountId": "128",
+            "companyId": "31",
+            "username": "646948136",
+            "password": "15210374632jlm",
+            "channelType": "gdt",
+            "status": "0",
+            "appId": "59iogq671lvq",
+            "customId": null
+        },
+        {
+            "accountId": "129",
+            "companyId": "21",
+            "username": "baidu-咚咚健康B18KA11032",
+            "password": "Ddjk123@mango",
+            "channelType": "baidu_sem",
+            "status": "1",
+            "appId": "4xf9tuajygoz",
+            "customId": null
+        },
+        {
+            "accountId": "130",
+            "companyId": "8",
+            "username": "baidu-广州数融01A18KA1440",
+            "password": "Shuqu123",
+            "channelType": "baidu_sem",
+            "status": "0",
+            "appId": "41pg8vkwjv2e",
+            "customId": null
+        },
+        {
+            "accountId": "131",
+            "companyId": "24",
+            "username": "forkf_yaox@163.com",
+            "password": "Dxm123@mango",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "4zrboh6vc3k1",
+            "customId": null
+        },
+        {
+            "accountId": "132",
+            "companyId": "24",
+            "username": "shixingzhe@mango-go.com",
+            "password": "Dxm123@mango",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "4zrboh6vc3k1",
+            "customId": null
+        },
+        {
+            "accountId": "134",
+            "companyId": "18",
+            "username": "foropen_xinlun@163.com\t",
+            "password": "Mm123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4sb1ficn1dz5",
+            "customId": null
+        },
+        {
+            "accountId": "135",
+            "companyId": "32",
+            "username": "baidu-启蒙教育B19KA00130",
+            "password": "Baowanyingyu2019",
+            "channelType": "baidu_sem",
+            "status": "1",
+            "appId": "5cidt03me22x",
+            "customId": null
+        },
+        {
+            "accountId": "136",
+            "companyId": "33",
+            "username": "forapple_k6@163.com",
+            "password": "Mgj123@mango",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "5didzahfhath",
+            "customId": null
+        },
+        {
+            "accountId": "137",
+            "companyId": "33",
+            "username": "formp_lianjiang@163.com",
+            "password": "Mgj123@mango",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "5didzahfhath",
+            "customId": null
+        },
+        {
+            "accountId": "138",
+            "companyId": "33",
+            "username": "formp_dobc@163.com",
+            "password": "Mgj123@mango",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "5didzahfhath",
+            "customId": null
+        },
+        {
+            "accountId": "139",
+            "companyId": "33",
+            "username": "formp_jingming@163.com",
+            "password": "WSgg@2019",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "5didzahfhath",
+            "customId": null
+        },
+        {
+            "accountId": "140",
+            "companyId": "33",
+            "username": "formp_hrgs@163.com",
+            "password": "WSgg@2019",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "5didzahfhath",
+            "customId": null
+        },
+        {
+            "accountId": "141",
+            "companyId": "34",
+            "username": "途牛旅行网易新闻",
+            "password": "Tn123@mango",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5dmqe9vr1kaw",
+            "customId": null
+        },
+        {
+            "accountId": "142",
+            "companyId": "35",
+            "username": "小米贷款",
+            "password": "Xm123@mango",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5g9mu84u991l",
+            "customId": null
+        },
+        {
+            "accountId": "143",
+            "companyId": "36",
+            "username": "大宋官窑石家庄",
+            "password": "Dsgy123@mango",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5geayyr10nid",
+            "customId": null
+        },
+        {
+            "accountId": "144",
+            "companyId": "28",
+            "username": "艺龙网",
+            "password": "Yl123@mango",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5366ahdacetd",
+            "customId": null
+        },
+        {
+            "accountId": "145",
+            "companyId": "33",
+            "username": "foropen_mj_yxlx@163.com",
+            "password": "Mgj123@mango",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "5didzahfhath",
+            "customId": null
+        },
+        {
+            "accountId": "146",
+            "companyId": "33",
+            "username": "forsub_zlt1@163.com",
+            "password": "Mgj123@mango",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "5didzahfhath",
+            "customId": null
+        },
+        {
+            "accountId": "147",
+            "companyId": "33",
+            "username": "forapple_k1@163.com",
+            "password": "Mgj123@mango",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "5didzahfhath",
+            "customId": null
+        },
+        {
+            "accountId": "148",
+            "companyId": "33",
+            "username": "foropen_wanhuilong@163.com",
+            "password": "Mgj123@mango",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "5didzahfhath",
+            "customId": null
+        },
+        {
+            "accountId": "149",
+            "companyId": "33",
+            "username": "foropen_heiyu@163.com",
+            "password": "Mgj123@mango",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "5didzahfhath",
+            "customId": null
+        },
+        {
+            "accountId": "150",
+            "companyId": "33",
+            "username": "formp_mmlf@163.com",
+            "password": "Mgj123@mango",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "5didzahfhath",
+            "customId": null
+        },
+        {
+            "accountId": "151",
+            "companyId": "33",
+            "username": "formp_mmqhd@163.com",
+            "password": "Mgj123@mango",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "5didzahfhath",
+            "customId": null
+        },
+        {
+            "accountId": "152",
+            "companyId": "37",
+            "username": "快易省",
+            "password": "Kys123@mango",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5kzci88gm8eh",
+            "customId": null
+        },
+        {
+            "accountId": "154",
+            "companyId": "38",
+            "username": "星王超变版",
+            "password": "Sqyx123@mango",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5lrd2wk70f7s",
+            "customId": null
+        },
+        {
+            "accountId": "155",
+            "companyId": "39",
+            "username": "bolonitt22@163.com",
+            "password": "ZD2018zs!",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5m5ftmenp81x",
+            "customId": null
+        },
+        {
+            "accountId": "156",
+            "companyId": "38",
+            "username": "三七youxi",
+            "password": "zhengmangkeji",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5lrd2wk70f7s",
+            "customId": null
+        },
+        {
+            "accountId": "157",
+            "companyId": "38",
+            "username": "霸业沙皇红名商店",
+            "password": "zhengmangkeji3",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5lrd2wk70f7s",
+            "customId": null
+        },
+        {
+            "accountId": "158",
+            "companyId": "35",
+            "username": "xiaomidaikuan",
+            "password": "zhengmangkeji2",
+            "channelType": "yixiao",
+            "status": "0",
+            "appId": "5g9mu84u991l",
+            "customId": null
+        },
+        {
+            "accountId": "159",
+            "companyId": "40",
+            "username": "373948665@qq.com",
+            "password": "Mdxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5mjo6fo2p7gg",
+            "customId": null
+        },
+        {
+            "accountId": "160",
+            "companyId": "41",
+            "username": "行知学园",
+            "password": "zhengmangkeji4",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5n7o1ns8hczn",
+            "customId": null
+        },
+        {
+            "accountId": "161",
+            "companyId": "18",
+            "username": "foropen_yangjiu@163.com",
+            "password": "Mm123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4sb1ficn1dz5",
+            "customId": null
+        },
+        {
+            "accountId": "162",
+            "companyId": "18",
+            "username": "forapple_jinyj@163.com",
+            "password": "Mm123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4sb1ficn1dz5",
+            "customId": null
+        },
+        {
+            "accountId": "163",
+            "companyId": "40",
+            "username": "formp_gy@163.com",
+            "password": "Mdxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5mjo6fo2p7gg",
+            "customId": null
+        },
+        {
+            "accountId": "164",
+            "companyId": "42",
+            "username": "formp_mmsjz@163.com",
+            "password": "Ydsp123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5oscsevdflky",
+            "customId": null
+        },
+        {
+            "accountId": "165",
+            "companyId": "39",
+            "username": "bolonitt27@163.com",
+            "password": "ZD2019zs!",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5m5ftmenp81x",
+            "customId": null
+        },
+        {
+            "accountId": "166",
+            "companyId": "43",
+            "username": "云和互动",
+            "password": "Yhhd123@mango",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5q65zjr6z4lk",
+            "customId": null
+        },
+        {
+            "accountId": "167",
+            "companyId": "40",
+            "username": "forsub_ww1@163.com",
+            "password": "Mdxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5mjo6fo2p7gg",
+            "customId": null
+        },
+        {
+            "accountId": "168",
+            "companyId": "44",
+            "username": "2906823864",
+            "password": "plumzmkj1234",
+            "channelType": "gdt",
+            "status": "1",
+            "appId": "5qjimfdry39j",
+            "customId": null
+        },
+        {
+            "accountId": "169",
+            "companyId": "44",
+            "username": "2827991059",
+            "password": "Plumzmkj1234",
+            "channelType": "gdt",
+            "status": "1",
+            "appId": "5qjimfdry39j",
+            "customId": null
+        },
+        {
+            "accountId": "171",
+            "companyId": "18",
+            "username": "forapple_k9@163.com",
+            "password": "Mm123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4sb1ficn1dz5",
+            "customId": null
+        },
+        {
+            "accountId": "172",
+            "companyId": "18",
+            "username": "formp_yingfan@163.com",
+            "password": "Mm123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4sb1ficn1dz5",
+            "customId": null
+        },
+        {
+            "accountId": "173",
+            "companyId": "10",
+            "username": "1350979618",
+            "password": "qqmusic1234",
+            "channelType": "gdt",
+            "status": "1",
+            "appId": "41pg8vjnloub",
+            "customId": null
+        },
+        {
+            "accountId": "174",
+            "companyId": "45",
+            "username": "forapple_k2@163.com",
+            "password": "Csxd123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5rjjlpss7y15",
+            "customId": null
+        },
+        {
+            "accountId": "175",
+            "companyId": "40",
+            "username": "forapple_k5@163.com",
+            "password": "Mdxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5mjo6fo2p7gg",
+            "customId": null
+        },
+        {
+            "accountId": "176",
+            "companyId": "40",
+            "username": "liyuan@mango-go.com",
+            "password": "Mdxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5mjo6fo2p7gg",
+            "customId": null
+        },
+        {
+            "accountId": "177",
+            "companyId": "15",
+            "username": "koolearn2014",
+            "password": "xdfzx1314",
+            "channelType": "shenma_sem",
+            "status": "1",
+            "appId": "4attrjitzjsx",
+            "customId": null
+        },
+        {
+            "accountId": "178",
+            "companyId": "15",
+            "username": "koolearn2017",
+            "password": "bylf1234",
+            "channelType": "shenma_sem",
+            "status": "1",
+            "appId": "4attrjitzjsx",
+            "customId": null
+        },
+        {
+            "accountId": "179",
+            "companyId": "15",
+            "username": "koolearn2019",
+            "password": "bylf1234",
+            "channelType": "shenma_sem",
+            "status": "1",
+            "appId": "4attrjitzjsx",
+            "customId": null
+        },
+        {
+            "accountId": "180",
+            "companyId": "40",
+            "username": "shlwt_hr@163.com",
+            "password": "Mdxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5mjo6fo2p7gg",
+            "customId": null
+        },
+        {
+            "accountId": "181",
+            "companyId": "46",
+            "username": "forkf_yxlx@163.com",
+            "password": "Em123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5tbw5zjxuex4",
+            "customId": null
+        },
+        {
+            "accountId": "182",
+            "companyId": "42",
+            "username": "3232017848@qq.com",
+            "password": "Ydsp123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5oscsevdflky",
+            "customId": null
+        },
+        {
+            "accountId": "183",
+            "companyId": "18",
+            "username": "formp_pinke@163.com\t",
+            "password": "Mm123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4sb1ficn1dz5",
+            "customId": null
+        },
+        {
+            "accountId": "184",
+            "companyId": "18",
+            "username": "yangsongyu@mango-go.com",
+            "password": "Mm123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4sb1ficn1dz5",
+            "customId": null
+        },
+        {
+            "accountId": "185",
+            "companyId": "18",
+            "username": "duhui@mango-go.com",
+            "password": "Mm123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4sb1ficn1dz5",
+            "customId": null
+        },
+        {
+            "accountId": "186",
+            "companyId": "47",
+            "username": "征战沙城武汉",
+            "password": "Zzsc123@mango",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uoczey1ff9i",
+            "customId": null
+        },
+        {
+            "accountId": "187",
+            "companyId": "47",
+            "username": "道法站网易",
+            "password": "daofa123",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uoczey1ff9i",
+            "customId": null
+        },
+        {
+            "accountId": "188",
+            "companyId": "47",
+            "username": "开天烈焰",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uoczey1ff9i",
+            "customId": null
+        },
+        {
+            "accountId": "189",
+            "companyId": "48",
+            "username": "广州千骐动漫塔防三国传",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uod4lvnvfnl",
+            "customId": null
+        },
+        {
+            "accountId": "19",
+            "companyId": "8",
+            "username": "baidu-01深圳数趣2173455",
+            "password": "Shuqu123",
+            "channelType": "baidu_sem",
+            "status": "0",
+            "appId": "41pg8vkwjv2e",
+            "customId": null
+        },
+        {
+            "accountId": "190",
+            "companyId": "48",
+            "username": "广州千骐动漫广州千骐动漫",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uod4lvnvfnl",
+            "customId": null
+        },
+        {
+            "accountId": "191",
+            "companyId": "48",
+            "username": "红月主宰千骐动漫",
+            "password": "Hyzz123@mango",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uod4lvnvfnl",
+            "customId": null
+        },
+        {
+            "accountId": "192",
+            "companyId": "47",
+            "username": "传奇争锋",
+            "password": "zhengfeng123",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uoczey1ff9i",
+            "customId": null
+        },
+        {
+            "accountId": "193",
+            "companyId": "42",
+            "username": "2944859607@qq.com",
+            "password": "Ydsp123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5oscsevdflky",
+            "customId": null
+        },
+        {
+            "accountId": "194",
+            "companyId": "49",
+            "username": "2827991059@qq.com",
+            "password": "Wdgz123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5vhre477llok",
+            "customId": null
+        },
+        {
+            "accountId": "196",
+            "companyId": "48",
+            "username": "超级三国志网易",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uod4lvnvfnl",
+            "customId": null
+        },
+        {
+            "accountId": "197",
+            "companyId": "47",
+            "username": "文明帝国",
+            "password": "Wmdg123@mango",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uoczey1ff9i",
+            "customId": null
+        },
+        {
+            "accountId": "198",
+            "companyId": "47",
+            "username": "帝国全面战争",
+            "password": "Dgqmzz123@mango",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uoczey1ff9i",
+            "customId": null
+        },
+        {
+            "accountId": "20",
+            "companyId": "8",
+            "username": "fei.gao@100credit.com",
+            "password": "Rs201701",
+            "channelType": "sougou_sem",
+            "status": "0",
+            "appId": "41pg8vkwjv2e",
+            "customId": null
+        },
+        {
+            "accountId": "200",
+            "companyId": "48",
+            "username": "奇幻精灵",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uod4lvnvfnl",
+            "customId": null
+        },
+        {
+            "accountId": "201",
+            "companyId": "47",
+            "username": "帝国全面战争",
+            "password": "Dgqmzz123@mango",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uoczey1ff9i",
+            "customId": null
+        },
+        {
+            "accountId": "20190422114741MA000010",
+            "companyId": "20190422114303AD000008",
+            "username": "2113407208@qq.com",
+            "password": "Youmi123*",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": null,
+            "customId": null
+        },
+        {
+            "accountId": "20190422115701MA000013",
+            "companyId": "18",
+            "username": "duyan@mango-go.com",
+            "password": "Mm123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4sb1ficn1dz5",
+            "customId": null
+        },
+        {
+            "accountId": "20190422115940MA000014",
+            "companyId": "18",
+            "username": "ningshuting@mango-go.com",
+            "password": "Mm123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4sb1ficn1dz5",
+            "customId": null
+        },
+        {
+            "accountId": "20190425112050MA000026",
+            "companyId": "18",
+            "username": "linzenggui@mango-go.com",
+            "password": "Mm123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4sb1ficn1dz5",
+            "customId": null
+        },
+        {
+            "accountId": "20190425112107MA000027",
+            "companyId": "18",
+            "username": "jiaru@mango-go.com",
+            "password": "Mm123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4sb1ficn1dz5",
+            "customId": null
+        },
+        {
+            "accountId": "20190426145622MA000028",
+            "companyId": "40",
+            "username": "formp_hrgs1@163.com\t",
+            "password": "Mdxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5mjo6fo2p7gg",
+            "customId": null
+        },
+        {
+            "accountId": "20190426145706MA000029",
+            "companyId": "40",
+            "username": "formp_hegs2@163.com",
+            "password": "Mdxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5mjo6fo2p7gg",
+            "customId": null
+        },
+        {
+            "accountId": "20190426145803MA000030",
+            "companyId": "40",
+            "username": "formp_ly@163.com",
+            "password": "Mdxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5mjo6fo2p7gg",
+            "customId": null
+        },
+        {
+            "accountId": "20190426145849MA000031",
+            "companyId": "40",
+            "username": "forapple_k8@163.com",
+            "password": "Mdxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5mjo6fo2p7gg",
+            "customId": null
+        },
+        {
+            "accountId": "20190426172755MA000032",
+            "companyId": "32",
+            "username": "formp_hexn@163.com",
+            "password": "Czt123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5cidt03me22x",
+            "customId": null
+        },
+        {
+            "accountId": "20190426172902MA000033",
+            "companyId": "32",
+            "username": "lijiahui@mango-go.com",
+            "password": "Bbw123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5cidt03me22x",
+            "customId": null
+        },
+        {
+            "accountId": "20190426230518MA000036",
+            "companyId": "20190426230350AD000034",
+            "username": "zmkjmd@163.com",
+            "password": "Mdxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "8hd25iL4BPJ9",
+            "customId": null
+        },
+        {
+            "accountId": "20190426230957MA000039",
+            "companyId": "20190426230747AD000037",
+            "username": "1705836326@qq.com",
+            "password": "Youmi123*",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "tore7i7nLZsa",
+            "customId": null
+        },
+        {
+            "accountId": "20190426231303MA000040",
+            "companyId": "20190426230747AD000037",
+            "username": "3524730675@qq.com",
+            "password": "Youmi123*",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "tore7i7nLZsa",
+            "customId": null
+        },
+        {
+            "accountId": "20190429151657MA000046",
+            "companyId": "20190429151607AD000044",
+            "username": "formp_zaote@163.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190430143728MA000047",
+            "companyId": "21",
+            "username": "ceshi123",
+            "password": "123456",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "4xf9tuajygoz",
+            "customId": null
+        },
+        {
+            "accountId": "20190430145855MA000048",
+            "companyId": "21",
+            "username": "ceshi222",
+            "password": "123456",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "4xf9tuajygoz",
+            "customId": null
+        },
+        {
+            "accountId": "20190430151928MA000049",
+            "companyId": "29",
+            "username": "formp_yaoxiao@163.com",
+            "password": "Max123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "59hysvd4a5u1",
+            "customId": null
+        },
+        {
+            "accountId": "20190505201336MA000052",
+            "companyId": "20190505201302AD000050",
+            "username": "formp_pugui@163.com",
+            "password": "Rssw123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "vFIQgJPfI5MA",
+            "customId": null
+        },
+        {
+            "accountId": "20190508175129MA000095",
+            "companyId": "20190508175017AD000093",
+            "username": "1048686218@qq.com",
+            "password": "Qn123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "p4aL8fC3JM4u",
+            "customId": null
+        },
+        {
+            "accountId": "20190508175803MA000096",
+            "companyId": "20190508175017AD000093",
+            "username": "3478628992",
+            "password": "yazhou123",
+            "channelType": "gdt",
+            "status": "1",
+            "appId": "p4aL8fC3JM4u",
+            "customId": null
+        },
+        {
+            "accountId": "20190508175910MA000097",
+            "companyId": "20190508175017AD000093",
+            "username": "1707945589",
+            "password": "Qn123@mango",
+            "channelType": "gdt",
+            "status": "1",
+            "appId": "p4aL8fC3JM4u",
+            "customId": null
+        },
+        {
+            "accountId": "20190513203654MA000108",
+            "companyId": "40",
+            "username": "formp_kanglue@163.com",
+            "password": "Mdxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5mjo6fo2p7gg",
+            "customId": null
+        },
+        {
+            "accountId": "20190513203727MA000109",
+            "companyId": "40",
+            "username": "13051659916@163.com",
+            "password": "Mdxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5mjo6fo2p7gg",
+            "customId": null
+        },
+        {
+            "accountId": "20190515150600MA000110",
+            "companyId": "31",
+            "username": "songyang@mango-go.com",
+            "password": "Qmkg123@mango",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "59iogq671lvq",
+            "customId": null
+        },
+        {
+            "accountId": "20190517155355MA000112",
+            "companyId": "46",
+            "username": "formp_hl@163.com",
+            "password": "Em123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5tbw5zjxuex4",
+            "customId": null
+        },
+        {
+            "accountId": "20190520173609MA000115",
+            "companyId": "20190520173450AD000113",
+            "username": "linchaoyi@youmi.net",
+            "password": "Youmi123*",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "XHtcjr1z9TH7",
+            "customId": null
+        },
+        {
+            "accountId": "20190520193939MA000118",
+            "companyId": "20190520193820AD000116",
+            "username": "wuyuxuan@mango-go.com",
+            "password": "Hlj123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "W3kD1nTNy6Og",
+            "customId": null
+        },
+        {
+            "accountId": "20190520201848MA000121",
+            "companyId": "20190520201738AD000119",
+            "username": "深圳万惠金融及贷",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "KgLWJmKYZyyX",
+            "customId": null
+        },
+        {
+            "accountId": "20190522115632MA000124",
+            "companyId": "20190522115524AD000122",
+            "username": "liuchang@sudaizhijia.com",
+            "password": "ZHIjie2018",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "z6oyM4ND7HKS",
+            "customId": null
+        },
+        {
+            "accountId": "20190524182916MA000132",
+            "companyId": "20190524182654AD000130",
+            "username": "forapple_k7@163.com",
+            "password": "Zenmen246@",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "AV3JPCFdoUUp",
+            "customId": null
+        },
+        {
+            "accountId": "20190529104022MA000133",
+            "companyId": "42",
+            "username": "formp_lxtx@163.com",
+            "password": "Ydsp123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5oscsevdflky",
+            "customId": null
+        },
+        {
+            "accountId": "20190531231554MA000136",
+            "companyId": "20190531231446AD000134",
+            "username": "formp_fanyi@163.com",
+            "password": "Wxk123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "B77OaITGeISK",
+            "customId": null
+        },
+        {
+            "accountId": "20190603171119MA000139",
+            "companyId": "20190603170943AD000137",
+            "username": "3466874465",
+            "password": "yazhou123",
+            "channelType": "gdt",
+            "status": "1",
+            "appId": "t1YXzr06zR6a",
+            "customId": null
+        },
+        {
+            "accountId": "20190603171224MA000140",
+            "companyId": "20190603170943AD000137",
+            "username": "2232669115",
+            "password": "yazhou123",
+            "channelType": "gdt",
+            "status": "0",
+            "appId": "t1YXzr06zR6a",
+            "customId": null
+        },
+        {
+            "accountId": "20190605162946MA000182",
+            "companyId": "20190524182654AD000130",
+            "username": "123@mango-go.com",
+            "password": "Zenmen246@",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "AV3JPCFdoUUp",
+            "customId": null
+        },
+        {
+            "accountId": "20190605163010MA000183",
+            "companyId": "20190524182654AD000130",
+            "username": "456@mango-go.com",
+            "password": "Zenmen246@",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "AV3JPCFdoUUp",
+            "customId": null
+        },
+        {
+            "accountId": "20190605163029MA000184",
+            "companyId": "20190524182654AD000130",
+            "username": "789@mango-go.com",
+            "password": "Zenmen246@",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "AV3JPCFdoUUp",
+            "customId": null
+        },
+        {
+            "accountId": "20190605163046MA000185",
+            "companyId": "20190524182654AD000130",
+            "username": "chuanshanjia5@mango-go.com",
+            "password": "Zenmen246@",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "AV3JPCFdoUUp",
+            "customId": null
+        },
+        {
+            "accountId": "20190605163104MA000186",
+            "companyId": "20190524182654AD000130",
+            "username": "chaunshanjia6@mango-go.com",
+            "password": "Zenmen246@",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "AV3JPCFdoUUp",
+            "customId": null
+        },
+        {
+            "accountId": "20190610155237MA000207",
+            "companyId": "20190429151607AD000044",
+            "username": "zhouziyang@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190610155313MA000208",
+            "companyId": "20190429151607AD000044",
+            "username": "lianshang@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190610155334MA000209",
+            "companyId": "20190429151607AD000044",
+            "username": "lianshang1@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190610155355MA000210",
+            "companyId": "20190429151607AD000044",
+            "username": "lianshang2@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190611190900MA000232",
+            "companyId": "20190611190735AD000223",
+            "username": "yuwan@mango-go.com",
+            "password": "Yw123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "83phXKpeFLyJ",
+            "customId": null
+        },
+        {
+            "accountId": "20190612110224MA000234",
+            "companyId": "20190426230350AD000034",
+            "username": "daxijiao@mango-go.com",
+            "password": "Mdxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "8hd25iL4BPJ9",
+            "customId": null
+        },
+        {
+            "accountId": "20190612161028MA000244",
+            "companyId": "20190612160948AD000235",
+            "username": "战区英雄",
+            "password": "Zqyx123@mango",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "7zs6yT5Beqzj",
+            "customId": null
+        },
+        {
+            "accountId": "20190613111301MA000245",
+            "companyId": "20190611190735AD000223",
+            "username": "langma@mango-go.com",
+            "password": "Yw123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "83phXKpeFLyJ",
+            "customId": null
+        },
+        {
+            "accountId": "20190613193311MA000256",
+            "companyId": "20190524102809AD000125",
+            "username": "人人贷网易",
+            "password": "Rrd123@mango",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "clNLZ5zkc2Ab",
+            "customId": null
+        },
+        {
+            "accountId": "20190614182253MA000267",
+            "companyId": "20190614182152AD000258",
+            "username": "chaojiling@mango-go.com",
+            "password": "Cjl123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "wu3qzVd0Bpnf",
+            "customId": null
+        },
+        {
+            "accountId": "20190618152513MA000282",
+            "companyId": "20190618152347AD000270",
+            "username": "中国电信网易",
+            "password": "Zmkj123@mango",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "DiV75yaCGLBe",
+            "customId": null
+        },
+        {
+            "accountId": "20190620105237MA000283",
+            "companyId": "20190531231446AD000134",
+            "username": "weipinghui@mango-go.com",
+            "password": "Wxk123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "B77OaITGeISK",
+            "customId": null
+        },
+        {
+            "accountId": "20190624100753MA000286",
+            "companyId": "42",
+            "username": "2574425429",
+            "password": "Zmkj123@mango",
+            "channelType": "gdt",
+            "status": "1",
+            "appId": "5oscsevdflky",
+            "customId": null
+        },
+        {
+            "accountId": "20190624171739MA000297",
+            "companyId": "20190624171119AD000288",
+            "username": "letui@mango-go.com",
+            "password": "Zmkj123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "Ywngyut66ROi",
+            "customId": null
+        },
+        {
+            "accountId": "20190626112833MA000306",
+            "companyId": "20190626104552AD000298",
+            "username": "test",
+            "password": "test",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "4Ou9qfczYqyz",
+            "customId": null
+        },
+        {
+            "accountId": "20190626203328MA000316",
+            "companyId": "20190626104552AD000298",
+            "username": "TEST2",
+            "password": "123456",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "4Ou9qfczYqyz",
+            "customId": null
+        },
+        {
+            "accountId": "20190626203749MA000317",
+            "companyId": "20190626202701AD000307",
+            "username": "account1",
+            "password": "pass",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "hkJVRzUxD6hS",
+            "customId": null
+        },
+        {
+            "accountId": "20190628160830MA000321",
+            "companyId": "10",
+            "username": "3553724015",
+            "password": "txyy2016",
+            "channelType": "gdt",
+            "status": "1",
+            "appId": "41pg8vjnloub",
+            "customId": null
+        },
+        {
+            "accountId": "20190709191307MA000399",
+            "companyId": "20190429151607AD000044",
+            "username": "d",
+            "password": "d",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190715184014MA000418",
+            "companyId": "48",
+            "username": "师妹的剑",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uod4lvnvfnl",
+            "customId": null
+        },
+        {
+            "accountId": "20190715184035MA000419",
+            "companyId": "48",
+            "username": "师妹的剑2",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uod4lvnvfnl",
+            "customId": null
+        },
+        {
+            "accountId": "20190715184051MA000420",
+            "companyId": "48",
+            "username": "凡人修仙1",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uod4lvnvfnl",
+            "customId": null
+        },
+        {
+            "accountId": "20190715184108MA000421",
+            "companyId": "48",
+            "username": "凡人修仙2",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uod4lvnvfnl",
+            "customId": null
+        },
+        {
+            "accountId": "20190715184136MA000422",
+            "companyId": "48",
+            "username": "热血三国塔防",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uod4lvnvfnl",
+            "customId": null
+        },
+        {
+            "accountId": "20190715184154MA000423",
+            "companyId": "48",
+            "username": "热血三国塔防2",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uod4lvnvfnl",
+            "customId": null
+        },
+        {
+            "accountId": "20190715184208MA000424",
+            "companyId": "48",
+            "username": "热血三国塔防3",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uod4lvnvfnl",
+            "customId": null
+        },
+        {
+            "accountId": "20190715184232MA000425",
+            "companyId": "48",
+            "username": "热血三国塔防4",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uod4lvnvfnl",
+            "customId": null
+        },
+        {
+            "accountId": "20190715184330MA000426",
+            "companyId": "48",
+            "username": "乱指塔防",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uod4lvnvfnl",
+            "customId": null
+        },
+        {
+            "accountId": "20190715184353MA000427",
+            "companyId": "48",
+            "username": "乱置塔防2",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uod4lvnvfnl",
+            "customId": null
+        },
+        {
+            "accountId": "20190715184402MA000428",
+            "companyId": "48",
+            "username": "乱置塔防3",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uod4lvnvfnl",
+            "customId": null
+        },
+        {
+            "accountId": "20190715184422MA000429",
+            "companyId": "48",
+            "username": "乱置塔防4",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5uod4lvnvfnl",
+            "customId": null
+        },
+        {
+            "accountId": "20190715191938MA000431",
+            "companyId": "42",
+            "username": "milian@mango-o.com",
+            "password": "Ydsp123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5oscsevdflky",
+            "customId": null
+        },
+        {
+            "accountId": "20190717163002MA000450",
+            "companyId": "20190717160655AD000441",
+            "username": "uju26313612@outlook.com",
+            "password": "Uju2018~!@",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190717163020MA000451",
+            "companyId": "20190717160655AD000441",
+            "username": "mn2xfukdj4x@sina.com",
+            "password": "Uju2018~!@",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190717163536MA000452",
+            "companyId": "20190717160655AD000441",
+            "username": "youxin66666@outlook.com",
+            "password": "Uju2018~!@",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190717163551MA000453",
+            "companyId": "20190717160655AD000441",
+            "username": "youxinhu6@outlook.com",
+            "password": "Uju2018~!@",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190718105504MA000457",
+            "companyId": "18",
+            "username": "momo2@mango-go.com",
+            "password": "Mm123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4sb1ficn1dz5",
+            "customId": null
+        },
+        {
+            "accountId": "20190718105529MA000458",
+            "companyId": "18",
+            "username": "momo@mango-go.com",
+            "password": "Mm123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4sb1ficn1dz5",
+            "customId": null
+        },
+        {
+            "accountId": "20190718110314MA000468",
+            "companyId": "20190718105849AD000459",
+            "username": "居理新房网易2",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "0Sy2ljLhtn0q",
+            "customId": null
+        },
+        {
+            "accountId": "20190718110340MA000469",
+            "companyId": "20190718105849AD000459",
+            "username": "居理新房网易",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "0Sy2ljLhtn0q",
+            "customId": null
+        },
+        {
+            "accountId": "20190718141734MA000479",
+            "companyId": "20190718141658AD000470",
+            "username": "doudou@mango-go.com",
+            "password": "Ddxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "Y1dp3ZECFvTh",
+            "customId": null
+        },
+        {
+            "accountId": "20190719165121MA000489",
+            "companyId": "20190719164827AD000480",
+            "username": "安彼迎网络",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "ABM7pu629LCN",
+            "customId": null
+        },
+        {
+            "accountId": "20190719192544MA000502",
+            "companyId": "20190614182152AD000258",
+            "username": "chaojiling1@mango-go.com",
+            "password": "Cjl123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "wu3qzVd0Bpnf",
+            "customId": null
+        },
+        {
+            "accountId": "20190724145747MA000514",
+            "companyId": "28",
+            "username": "艺龙网1",
+            "password": "yilong0630",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5366ahdacetd",
+            "customId": null
+        },
+        {
+            "accountId": "20190724145823MA000515",
+            "companyId": "34",
+            "username": "途牛旅行网易",
+            "password": "tnlx0630",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "5dmqe9vr1kaw",
+            "customId": null
+        },
+        {
+            "accountId": "20190726154318MA000516",
+            "companyId": "20190603170943AD000137",
+            "username": "2392656748",
+            "password": "yazhou123",
+            "channelType": "gdt",
+            "status": "1",
+            "appId": "t1YXzr06zR6a",
+            "customId": null
+        },
+        {
+            "accountId": "20190726154351MA000517",
+            "companyId": "20190603170943AD000137",
+            "username": "1994739861",
+            "password": "yazhou123",
+            "channelType": "gdt",
+            "status": "1",
+            "appId": "t1YXzr06zR6a",
+            "customId": null
+        },
+        {
+            "accountId": "20190726154548MA000518",
+            "companyId": "42",
+            "username": "2781711175",
+            "password": "yazhou123",
+            "channelType": "gdt",
+            "status": "1",
+            "appId": "5oscsevdflky",
+            "customId": null
+        },
+        {
+            "accountId": "20190731182343MA000554",
+            "companyId": "20190429151607AD000044",
+            "username": "lianshang3@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190731182405MA000555",
+            "companyId": "20190429151607AD000044",
+            "username": "lianshang4@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190731182428MA000556",
+            "companyId": "20190429151607AD000044",
+            "username": "lianshang5@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190731182451MA000557",
+            "companyId": "20190429151607AD000044",
+            "username": "lianshang6@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190731182648MA000558",
+            "companyId": "20190429151607AD000044",
+            "username": "lianshang7@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190731182747MA000559",
+            "companyId": "20190429151607AD000044",
+            "username": "lianshang10@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190731182811MA000560",
+            "companyId": "20190429151607AD000044",
+            "username": "lianshang11@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190731182840MA000561",
+            "companyId": "20190429151607AD000044",
+            "username": "lianshang12@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190731182901MA000562",
+            "companyId": "20190429151607AD000044",
+            "username": "lianshang13@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190731182921MA000563",
+            "companyId": "20190429151607AD000044",
+            "username": "lianshang14@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190806122411MA000577",
+            "companyId": "20190718141658AD000470",
+            "username": "doudou2@mango-go.com",
+            "password": "Ddxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "Y1dp3ZECFvTh",
+            "customId": null
+        },
+        {
+            "accountId": "20190809155513MA000579",
+            "companyId": "20190718141658AD000470",
+            "username": "doudou3@mango-go.com",
+            "password": "Ddxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "Y1dp3ZECFvTh",
+            "customId": null
+        },
+        {
+            "accountId": "20190809155644MA000589",
+            "companyId": "20190809155616AD000580",
+            "username": "汾酒网易2",
+            "password": "Fjwy123@mango",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "JQHLRpGTpITF",
+            "customId": null
+        },
+        {
+            "accountId": "20190809155810MA000590",
+            "companyId": "20190719164827AD000480",
+            "username": "爱彼迎网易",
+            "password": "Aby123@mango",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "ABM7pu629LCN",
+            "customId": null
+        },
+        {
+            "accountId": "20190809155848MA000591",
+            "companyId": "20190719164827AD000480",
+            "username": "安彼迎网易2",
+            "password": "Aby123@mango",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "ABM7pu629LCN",
+            "customId": null
+        },
+        {
+            "accountId": "20190811100141MA000610",
+            "companyId": "20190811095946AD000601",
+            "username": "3464166002@qq.com",
+            "password": "Huyi,123",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "Alb1T9Dge5H8",
+            "customId": null
+        },
+        {
+            "accountId": "20190811100248MA000611",
+            "companyId": "20190811095946AD000601",
+            "username": "2377836979@qq.com",
+            "password": "Huyi,123",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "Alb1T9Dge5H8",
+            "customId": null
+        },
+        {
+            "accountId": "20190811100652MA000621",
+            "companyId": "20190811100437AD000612",
+            "username": "imoney@mango-go.com",
+            "password": "WSgg@2019",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "pxXLqLJUDG11",
+            "customId": null
+        },
+        {
+            "accountId": "20190811100804MA000622",
+            "companyId": "20190811100437AD000612",
+            "username": "imoney3@mango-go.com",
+            "password": "WSgg@2019",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "pxXLqLJUDG11",
+            "customId": null
+        },
+        {
+            "accountId": "20190811100927MA000623",
+            "companyId": "20190811100437AD000612",
+            "username": "imoney3@mango-go.com",
+            "password": "WSgg@2019",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "pxXLqLJUDG11",
+            "customId": null
+        },
+        {
+            "accountId": "20190812164551MA000641",
+            "companyId": "20190811100437AD000612",
+            "username": "imoney1@mango-go.com",
+            "password": "WSgg@2019",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "pxXLqLJUDG11",
+            "customId": null
+        },
+        {
+            "accountId": "20190814113440MA000643",
+            "companyId": "20190809155616AD000580",
+            "username": "汾藏1918酒",
+            "password": "zhengmang2019",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "JQHLRpGTpITF",
+            "customId": null
+        },
+        {
+            "accountId": "20190814120841MA000644",
+            "companyId": "20190717160655AD000441",
+            "username": "liuyupeng@souche.com",
+            "password": "Uju66666.",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190814165140MA000645",
+            "companyId": "20190717160655AD000441",
+            "username": "shu28588181710707@126.com",
+            "password": "Q!W@e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190814165340MA000646",
+            "companyId": "20190717160655AD000441",
+            "username": "geksof77453@163.com",
+            "password": "Uju.halou123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190814190911MA000648",
+            "companyId": "20190717160655AD000441",
+            "username": "bulinci07377303@126.com",
+            "password": "Q!W@e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190814191047MA000649",
+            "companyId": "20190717160655AD000441",
+            "username": "pilin4736309@126.com",
+            "password": "Q!W@e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190814191105MA000650",
+            "companyId": "20190717160655AD000441",
+            "username": "xihuiten818174@126.com",
+            "password": "Q!W@e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190815105941MA000651",
+            "companyId": "20190812151602AD000632",
+            "username": "oicps189@bytedance.com",
+            "password": "Youxi,2018",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "Xei3eblBZ61b",
+            "customId": null
+        },
+        {
+            "accountId": "20190815110205MA000652",
+            "companyId": "20190812151602AD000632",
+            "username": "skcps190@bytedance.com",
+            "password": "Youxi,2018",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "Xei3eblBZ61b",
+            "customId": null
+        },
+        {
+            "accountId": "20190815110446MA000653",
+            "companyId": "20190812151602AD000632",
+            "username": "rhcps192@bytedance.com",
+            "password": "Youxi,2018",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "Xei3eblBZ61b",
+            "customId": null
+        },
+        {
+            "accountId": "20190815110709MA000654",
+            "companyId": "20190812151602AD000632",
+            "username": "qycps129@bytedance.com",
+            "password": "Toutiao.123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "Xei3eblBZ61b",
+            "customId": null
+        },
+        {
+            "accountId": "20190815110856MA000655",
+            "companyId": "20190812151602AD000632",
+            "username": "zucps144@bytedance.com",
+            "password": "Toutiao.123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "Xei3eblBZ61b",
+            "customId": null
+        },
+        {
+            "accountId": "20190815151015MA000660",
+            "companyId": "20190717160655AD000441",
+            "username": "raochuan1848484@126.com",
+            "password": "Q!W@e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190815151157MA000661",
+            "companyId": "20190717160655AD000441",
+            "username": "wen66255851@126.com",
+            "password": "Q!W@e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190815151247MA000662",
+            "companyId": "20190717160655AD000441",
+            "username": "luanyu25815@163.com",
+            "password": "Q!W@e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190815151320MA000663",
+            "companyId": "20190717160655AD000441",
+            "username": "min66255851@126.com",
+            "password": "Q!W@e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190815151354MA000664",
+            "companyId": "20190717160655AD000441",
+            "username": "sizi66962295@126.com",
+            "password": "Q!W@e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190815151424MA000665",
+            "companyId": "20190717160655AD000441",
+            "username": "longkuai14740@126.com",
+            "password": "Q!W@e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190815151457MA000666",
+            "companyId": "20190717160655AD000441",
+            "username": "minai284703@126.com",
+            "password": "Q!W@e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190815151532MA000667",
+            "companyId": "20190717160655AD000441",
+            "username": "zhuaxuen2851417@126.com",
+            "password": "Q!W@e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190815151616MA000668",
+            "companyId": "20190717160655AD000441",
+            "username": "goubaiyu228@126.com",
+            "password": "Q!W@e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190815151701MA000669",
+            "companyId": "20190717160655AD000441",
+            "username": "quanzhiying147436@163.com",
+            "password": "Uju.jumai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190815151749MA000670",
+            "companyId": "20190717160655AD000441",
+            "username": "kuirenzi6385@163.com",
+            "password": "Uju.jumai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190815151831MA000671",
+            "companyId": "20190717160655AD000441",
+            "username": "qiuycri9019@163.com",
+            "password": "Uju.jumai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190815151917MA000672",
+            "companyId": "20190717160655AD000441",
+            "username": "gongchao6670515@163.com",
+            "password": "Uju.jumai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190815152012MA000673",
+            "companyId": "20190717160655AD000441",
+            "username": "as82m0xjc@163.com",
+            "password": "Uju.jumai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816192242MA000675",
+            "companyId": "20190717160655AD000441",
+            "username": "shengz177170@163.com",
+            "password": "Q!W#e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816192713MA000676",
+            "companyId": "20190717160655AD000441",
+            "username": "mingxu39929@163.com",
+            "password": "Q!W#e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816192731MA000677",
+            "companyId": "20190717160655AD000441",
+            "username": "moubia5811@163.com",
+            "password": "Q!W#e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816192807MA000678",
+            "companyId": "20190717160655AD000441",
+            "username": "le22958588811@163.com",
+            "password": "Q!W#e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816192836MA000679",
+            "companyId": "20190717160655AD000441",
+            "username": "jinxie3692@163.com",
+            "password": "Q!W#e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816192849MA000680",
+            "companyId": "20190717160655AD000441",
+            "username": "yi8518181411@163.com",
+            "password": "Q!W#e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816192905MA000681",
+            "companyId": "20190717160655AD000441",
+            "username": " langmu87711@163.com",
+            "password": "Q!W#e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816192917MA000682",
+            "companyId": "20190717160655AD000441",
+            "username": "chuangran369269@163.com",
+            "password": "Q!W#e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816192959MA000683",
+            "companyId": "20190717160655AD000441",
+            "username": "mi41040370@163.com",
+            "password": "Q!W#e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816193010MA000684",
+            "companyId": "20190717160655AD000441",
+            "username": "yu174040307036@163.com",
+            "password": "Q!W#e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816193022MA000685",
+            "companyId": "20190717160655AD000441",
+            "username": "bantuer95929258215@163.com",
+            "password": "Q!W#e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816193033MA000686",
+            "companyId": "20190717160655AD000441",
+            "username": "changdi52585258184@163.com",
+            "password": "Q!W#e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816193044MA000687",
+            "companyId": "20190717160655AD000441",
+            "username": "xianlaman0703736@163.com",
+            "password": "Q!W#e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816193053MA000688",
+            "companyId": "20190717160655AD000441",
+            "username": "zichefeng969259@163.com",
+            "password": "Q!W#e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816193104MA000689",
+            "companyId": "20190717160655AD000441",
+            "username": "xuanliang81447147@163.com",
+            "password": "Q!W#e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816193113MA000690",
+            "companyId": "20190717160655AD000441",
+            "username": "buyi95858181484@163.com",
+            "password": "Q!W#e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816193125MA000691",
+            "companyId": "20190717160655AD000441",
+            "username": "haozhen8474040@163.com",
+            "password": "Q!W#e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816193135MA000692",
+            "companyId": "20190717160655AD000441",
+            "username": "yinbfxozmb59340@163.com",
+            "password": "Uju.halou123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816193150MA000693",
+            "companyId": "20190717160655AD000441",
+            "username": "dinguizxaq684@163.com",
+            "password": "Uju.halou123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816193201MA000694",
+            "companyId": "20190717160655AD000441",
+            "username": "pangtongbei9977@163.com",
+            "password": "Uju.halou123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816193215MA000695",
+            "companyId": "20190717160655AD000441",
+            "username": "yahuanghan62511@163.com",
+            "password": "Uju.halou123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816193230MA000696",
+            "companyId": "20190717160655AD000441",
+            "username": "nakcfwnpa76879@163.com",
+            "password": "Uju.halou123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816193322MA000697",
+            "companyId": "20190717160655AD000441",
+            "username": "houshungu7919@163.com ",
+            "password": "Uju.halou123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816193334MA000698",
+            "companyId": "20190717160655AD000441",
+            "username": "aozeivvc1359@163.com",
+            "password": "Q!W@e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816193425MA000699",
+            "companyId": "20190717160655AD000441",
+            "username": "xuweng8417170@126.com",
+            "password": "Q!W@e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816193435MA000700",
+            "companyId": "20190717160655AD000441",
+            "username": "paofu5218181@126.com",
+            "password": "Q!W@e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816193446MA000701",
+            "companyId": "20190717160655AD000441",
+            "username": "tong33629625@126.com",
+            "password": "Q!W@e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816193456MA000702",
+            "companyId": "20190717160655AD000441",
+            "username": "bimingsa528184847@126.com",
+            "password": "Q!W@e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190816193508MA000703",
+            "companyId": "20190717160655AD000441",
+            "username": "juqibu847747@126.com",
+            "password": "Q!W@e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190819152958MA000715",
+            "companyId": "20190717160655AD000441",
+            "username": "rc31y2ru537@sina.com",
+            "password": "Uju2019..",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190819170159MA000716",
+            "companyId": "20190809160036AD000592",
+            "username": "同程旅游网易",
+            "password": "Tcly123@mango",
+            "channelType": "yixiao",
+            "status": "1",
+            "appId": "M1rXg36nuHQZ",
+            "customId": null
+        },
+        {
+            "accountId": "20190820101959MA000718",
+            "companyId": "42",
+            "username": "2593187694",
+            "password": "yazhou123",
+            "channelType": "gdt",
+            "status": "1",
+            "appId": "5oscsevdflky",
+            "customId": null
+        },
+        {
+            "accountId": "20190820152635MA000724",
+            "companyId": "20190717160655AD000441",
+            "username": "2851509073@qq.com",
+            "password": "Uju2019..",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190820152718MA000725",
+            "companyId": "20190717160655AD000441",
+            "username": "fenghuangxinwen@aliyun.com",
+            "password": "Uju2019~!@",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190820152815MA000726",
+            "companyId": "20190717160655AD000441",
+            "username": "ak66o7crk@sina.com",
+            "password": "Uju2019~!@",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190821104533MA000731",
+            "companyId": "20190717160655AD000441",
+            "username": "raodou562562117@163.com",
+            "password": "Uju2019123..",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190821104831MA000732",
+            "companyId": "20190717160655AD000441",
+            "username": "yuduan59263764@163.com",
+            "password": "Uju2019123..",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190821104937MA000733",
+            "companyId": "20190717160655AD000441",
+            "username": "mibei5780@163.com",
+            "password": "Uju2019..",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190823170222MA000751",
+            "companyId": "20190717160655AD000441",
+            "username": "yinrong80632@163.com",
+            "password": "Uju2019...",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190823180407MA000752",
+            "companyId": "20190717160655AD000441",
+            "username": "zhuxiechi182814@163.com",
+            "password": "Q!W@e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190823180430MA000753",
+            "companyId": "20190717160655AD000441",
+            "username": "fangjiaobi104@163.com",
+            "password": "Uju.youyin123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190823180448MA000754",
+            "companyId": "20190717160655AD000441",
+            "username": "xeakang26423@163.com",
+            "password": "Q!W#e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190823180510MA000755",
+            "companyId": "20190717160655AD000441",
+            "username": "tengxingbu1@163.com ",
+            "password": "Uju.jumai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190823180537MA000756",
+            "companyId": "20190717160655AD000441",
+            "username": "liaohao867782@163.com",
+            "password": "Uju.jumai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190823180600MA000757",
+            "companyId": "20190717160655AD000441",
+            "username": "yukan0879779861@163.com",
+            "password": "Uju.jumai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190827110430MA000762",
+            "companyId": "42",
+            "username": "yidui1@qq.com",
+            "password": "Ydsp123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5oscsevdflky",
+            "customId": null
+        },
+        {
+            "accountId": "20190827110448MA000763",
+            "companyId": "42",
+            "username": "yidui2@mango-go.com",
+            "password": "Ydsp123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5oscsevdflky",
+            "customId": null
+        },
+        {
+            "accountId": "20190827110554MA000773",
+            "companyId": "20190827110523AD000764",
+            "username": "wifi@mango-go.com",
+            "password": "Wifi123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "2D0yxI8Z2VpI",
+            "customId": null
+        },
+        {
+            "accountId": "20190827110623MA000774",
+            "companyId": "20190827110523AD000764",
+            "username": "wifi1@mango-go.com",
+            "password": "Wifi123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "2D0yxI8Z2VpI",
+            "customId": null
+        },
+        {
+            "accountId": "20190829101230MA000775",
+            "companyId": "20190805161952AD000568",
+            "username": "zao@mango-go.com",
+            "password": "Zao123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "dcmoCAqOG1Du",
+            "customId": null
+        },
+        {
+            "accountId": "20190829101256MA000776",
+            "companyId": "20190805161952AD000568",
+            "username": "zao1@mango-go.com",
+            "password": "Zao123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "dcmoCAqOG1Du",
+            "customId": null
+        },
+        {
+            "accountId": "20190829101331MA000777",
+            "companyId": "20190805161952AD000568",
+            "username": "zao2@mango-go.com",
+            "password": "Zao123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "dcmoCAqOG1Du",
+            "customId": null
+        },
+        {
+            "accountId": "20190830143433MA000779",
+            "companyId": "20190717160655AD000441",
+            "username": "vrj6c702m@163.com",
+            "password": "Uju.jumai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190830143455MA000780",
+            "companyId": "20190717160655AD000441",
+            "username": "jindangte909@163.com",
+            "password": "Uju.jumai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190830143514MA000781",
+            "companyId": "20190717160655AD000441",
+            "username": "zhangxiayu453@163.com",
+            "password": "Uju.jumai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190830143535MA000782",
+            "companyId": "20190717160655AD000441",
+            "username": "u5bwhiv972m7o13@163.com",
+            "password": "Uju.jumai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190830143605MA000786",
+            "companyId": "20190717160655AD000441",
+            "username": "banyan123061060@163.com",
+            "password": "Uju.jumai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190830144023MA000790",
+            "companyId": "20190717160655AD000441",
+            "username": "pubutuo3633697@163.com",
+            "password": "Uju.xiaomai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190830144045MA000791",
+            "companyId": "20190717160655AD000441",
+            "username": "yongjizhan9496@163.com",
+            "password": "Uju.xiaomai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190830144107MA000792",
+            "companyId": "20190717160655AD000441",
+            "username": "qianhfcvj5919@163.com",
+            "password": "Uju.xiaomai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190830144136MA000793",
+            "companyId": "20190717160655AD000441",
+            "username": "danghuaizhao5789@163.com",
+            "password": "Uju.xiaomai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190830144157MA000794",
+            "companyId": "20190717160655AD000441",
+            "username": "zhannahua7792@163.com",
+            "password": "Uju.xiaomai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190830144220MA000795",
+            "companyId": "20190717160655AD000441",
+            "username": "bjwlkiu9cms9@163.com",
+            "password": "Uju.xiaomai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190830144242MA000796",
+            "companyId": "20190717160655AD000441",
+            "username": "muzongnan916937@163.com",
+            "password": "Uju.xiaomai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190830144301MA000797",
+            "companyId": "20190717160655AD000441",
+            "username": "m04ntz9hh@163.com",
+            "password": "Uju.xiaomai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190830144318MA000798",
+            "companyId": "20190717160655AD000441",
+            "username": "jiarang130935@163.com",
+            "password": "Uju.xiaomai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190903101749MA000831",
+            "companyId": "20190903101527AD000822",
+            "username": "touxitouxi00600@bytedance.com",
+            "password": "Youxi,2018",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "SjVrP0CjViGJ",
+            "customId": null
+        },
+        {
+            "accountId": "20190903101810MA000832",
+            "companyId": "20190903101527AD000822",
+            "username": "touxitouxi00651@bytedance.com",
+            "password": "Youxi,2018",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "SjVrP0CjViGJ",
+            "customId": null
+        },
+        {
+            "accountId": "20190903101839MA000833",
+            "companyId": "20190903101527AD000822",
+            "username": "touxitouxi00660@bytedance.com",
+            "password": "Youxi,2018",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "SjVrP0CjViGJ",
+            "customId": null
+        },
+        {
+            "accountId": "20190903101900MA000834",
+            "companyId": "20190903101527AD000822",
+            "username": "touxitouxi00583@bytedance.com",
+            "password": "Youxi,2018",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "SjVrP0CjViGJ",
+            "customId": null
+        },
+        {
+            "accountId": "20190903140031MA000836",
+            "companyId": "20190429151607AD000044",
+            "username": "lianshang17@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190903140053MA000837",
+            "companyId": "20190429151607AD000044",
+            "username": "lianshang16@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190905105928MA000840",
+            "companyId": "18",
+            "username": "momo19@mango-go.com",
+            "password": "Mm123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4sb1ficn1dz5",
+            "customId": null
+        },
+        {
+            "accountId": "20190905105948MA000841",
+            "companyId": "18",
+            "username": "momo18@mango-go.com",
+            "password": "Mm123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4sb1ficn1dz5",
+            "customId": null
+        },
+        {
+            "accountId": "20190909111653MA000912",
+            "companyId": "20190909111540AD000903",
+            "username": "raozhua625@163.com",
+            "password": "Qxhd@1111",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "cLQBs0y9SZQc",
+            "customId": null
+        },
+        {
+            "accountId": "20190909111732MA000913",
+            "companyId": "20190909111540AD000903",
+            "username": "yuheshen417@163.com",
+            "password": "Qxhd@1111",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "cLQBs0y9SZQc",
+            "customId": null
+        },
+        {
+            "accountId": "20190910192728MA000915",
+            "companyId": "20190717160655AD000441",
+            "username": "y5t8cf31pm1q@163.com",
+            "password": "Uju.xiaomai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190910192754MA000916",
+            "companyId": "20190717160655AD000441",
+            "username": "f3m7fvq6gf@163.com",
+            "password": "Uju.xiaomai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190910192819MA000917",
+            "companyId": "20190717160655AD000441",
+            "username": "jibajiao730256@163.com",
+            "password": "Uju.xiaomai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190910192856MA000918",
+            "companyId": "20190717160655AD000441",
+            "username": "ranan604714134@163.com",
+            "password": "Uju.xiaomai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190910192916MA000919",
+            "companyId": "20190717160655AD000441",
+            "username": "nj3n3zpz1grnbx9af@163.com",
+            "password": "Uju.xiaomai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190911110527MA000929",
+            "companyId": "20190911110451AD000920",
+            "username": "liulishuo@mango-go.com",
+            "password": "Lls123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "YAK76Tl91Fha",
+            "customId": null
+        },
+        {
+            "accountId": "20190911115636MA000930",
+            "companyId": "20190429151607AD000044",
+            "username": "lianshang18@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190911115656MA000931",
+            "companyId": "20190429151607AD000044",
+            "username": "lianshangfufei10@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190911115716MA000932",
+            "companyId": "20190429151607AD000044",
+            "username": "lianshangfufei11@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190911115735MA000933",
+            "companyId": "20190429151607AD000044",
+            "username": "lianshangfufei@ma12ngo-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190911115755MA000934",
+            "companyId": "20190429151607AD000044",
+            "username": "lianshangfufei13@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190911115814MA000935",
+            "companyId": "20190429151607AD000044",
+            "username": "lianshangfufei14@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190916112254MA000942",
+            "companyId": "20190717160655AD000441",
+            "username": "pangmeizhi91@163.com",
+            "password": "Q.W#e3r4",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190916112316MA000943",
+            "companyId": "20190717160655AD000441",
+            "username": "t6mjaoa95494@163.com",
+            "password": "Uju.jumai123",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "WNz2qRgJsRd2",
+            "customId": null
+        },
+        {
+            "accountId": "20190917104819MA000944",
+            "companyId": "46",
+            "username": "ermi3@mango-go.com",
+            "password": "Em@zhengmang2019",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5tbw5zjxuex4",
+            "customId": null
+        },
+        {
+            "accountId": "20190917110337MA000945",
+            "companyId": "42",
+            "username": "1516509438",
+            "password": "yazhou123",
+            "channelType": "gdt",
+            "status": "1",
+            "appId": "5oscsevdflky",
+            "customId": null
+        },
+        {
+            "accountId": "20190917110358MA000946",
+            "companyId": "42",
+            "username": "2839477272",
+            "password": "yazhou123",
+            "channelType": "gdt",
+            "status": "1",
+            "appId": "5oscsevdflky",
+            "customId": null
+        },
+        {
+            "accountId": "20190917110427MA000947",
+            "companyId": "42",
+            "username": "676341152",
+            "password": "yazhou123",
+            "channelType": "gdt",
+            "status": "1",
+            "appId": "5oscsevdflky",
+            "customId": null
+        },
+        {
+            "accountId": "20190917110449MA000948",
+            "companyId": "42",
+            "username": "1047969347",
+            "password": "yazhou123",
+            "channelType": "gdt",
+            "status": "1",
+            "appId": "5oscsevdflky",
+            "customId": null
+        },
+        {
+            "accountId": "20190919162827MA001001",
+            "companyId": "20190429151607AD000044",
+            "username": "shiweiyu01@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190919162847MA001002",
+            "companyId": "20190429151607AD000044",
+            "username": "shiweiyu02@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190919162907MA001003",
+            "companyId": "20190429151607AD000044",
+            "username": "shiweiyu03@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190919162929MA001004",
+            "companyId": "20190429151607AD000044",
+            "username": "shiweiyu04@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190919162946MA001005",
+            "companyId": "20190429151607AD000044",
+            "username": "shiweiyu05@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190919163012MA001006",
+            "companyId": "20190429151607AD000044",
+            "username": "shiweiyu06@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190919163032MA001007",
+            "companyId": "20190429151607AD000044",
+            "username": "shiweiyu07@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190919163052MA001008",
+            "companyId": "20190429151607AD000044",
+            "username": "shiweiyu08@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190919163108MA001009",
+            "companyId": "20190429151607AD000044",
+            "username": "shiweiyu09@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190919163123MA001010",
+            "companyId": "20190429151607AD000044",
+            "username": "shiweiyu10@mango-go.com",
+            "password": "Lsxs123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4QWGVekzdOGD",
+            "customId": null
+        },
+        {
+            "accountId": "20190920113846MA001011",
+            "companyId": "20190911110451AD000920",
+            "username": "liulishuo1@mango-go.com",
+            "password": "Lls123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "YAK76Tl91Fha",
+            "customId": null
+        },
+        {
+            "accountId": "202",
+            "companyId": "49",
+            "username": "tanjian@mango-go.com",
+            "password": "Wdgz123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5vhre477llok",
+            "customId": null
+        },
+        {
+            "accountId": "203",
+            "companyId": "31",
+            "username": "wangxiaoyan@mango-go.com",
+            "password": "Qmkg123@mango",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "59iogq671lvq",
+            "customId": null
+        },
+        {
+            "accountId": "204",
+            "companyId": "42",
+            "username": "zhangli@mango-go.com\t",
+            "password": "Ydsp123@mango",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "5oscsevdflky",
+            "customId": null
+        },
+        {
+            "accountId": "23",
+            "companyId": "8",
+            "username": "hongtao.wang@100credit.com",
+            "password": "Rs201701",
+            "channelType": "sougou_sem",
+            "status": "0",
+            "appId": "41pg8vkwjv2e",
+            "customId": null
+        },
+        {
+            "accountId": "28",
+            "companyId": "8",
+            "username": "baidu-广州数融A18KA1258",
+            "password": "Shuqu123",
+            "channelType": "baidu_sem",
+            "status": "0",
+            "appId": "41pg8vkwjv2e",
+            "customId": null
+        },
+        {
+            "accountId": "31",
+            "companyId": "10",
+            "username": "2252344806",
+            "password": "qqmusic1234",
+            "channelType": "gdt",
+            "status": "0",
+            "appId": "41pg8vjnloub",
+            "customId": null
+        },
+        {
+            "accountId": "32",
+            "companyId": "8",
+            "username": "榕树贷款01",
+            "password": "rongshushenma123",
+            "channelType": "shenma_sem",
+            "status": "0",
+            "appId": "41pg8vkwjv2e",
+            "customId": null
+        },
+        {
+            "accountId": "39",
+            "companyId": "10",
+            "username": "119333818",
+            "password": "119333818hanne",
+            "channelType": "gdt",
+            "status": "0",
+            "appId": "41pg8vjnloub",
+            "customId": "2932544"
+        },
+        {
+            "accountId": "40",
+            "companyId": "8",
+            "username": "原生-数融A18KA1432",
+            "password": "Mango0625",
+            "channelType": "baidu_feed",
+            "status": "0",
+            "appId": "41pg8vkwjv2e",
+            "customId": null
+        },
+        {
+            "accountId": "44",
+            "companyId": "10",
+            "username": "3228705757",
+            "password": "szyyb2016",
+            "channelType": "gdt",
+            "status": "1",
+            "appId": "41pg8vjnloub",
+            "customId": "2677129"
+        },
+        {
+            "accountId": "47",
+            "companyId": "8",
+            "username": "原生-广州数融02A18KA1432",
+            "password": "Mango0625",
+            "channelType": "baidu_feed",
+            "status": "0",
+            "appId": "41pg8vkwjv2e",
+            "customId": null
+        },
+        {
+            "accountId": "48",
+            "companyId": "8",
+            "username": "111",
+            "password": "111",
+            "channelType": null,
+            "status": "0",
+            "appId": "41pg8vkwjv2e",
+            "customId": null
+        },
+        {
+            "accountId": "50",
+            "companyId": "15",
+            "username": "原生-1新东方在线B18KA5835",
+            "password": "XDFsem123",
+            "channelType": "baidu_feed",
+            "status": "0",
+            "appId": "4attrjitzjsx",
+            "customId": null
+        },
+        {
+            "accountId": "52",
+            "companyId": "15",
+            "username": "baidu-新东方在线2-2134719",
+            "password": "Xdf1234",
+            "channelType": "baidu_sem",
+            "status": "1",
+            "appId": "4attrjitzjsx",
+            "customId": null
+        },
+        {
+            "accountId": "53",
+            "companyId": "8",
+            "username": "原生-广州数融A18KA1432",
+            "password": "Mango0625",
+            "channelType": "baidu_feed",
+            "status": "0",
+            "appId": "41pg8vkwjv2e",
+            "customId": null
+        },
+        {
+            "accountId": "56",
+            "companyId": "8",
+            "username": "mayue@mango-go.com",
+            "password": "rongshu@123Hz",
+            "channelType": "toutiao",
+            "status": "0",
+            "appId": "41pg8vkwjv2e",
+            "customId": null
+        },
+        {
+            "accountId": "89",
+            "companyId": "8",
+            "username": "2656607373",
+            "password": "rongshu123",
+            "channelType": "gdt",
+            "status": "0",
+            "appId": "41pg8vkwjv2e",
+            "customId": null
+        },
+        {
+            "accountId": "90",
+            "companyId": "15",
+            "username": "baidu-在线帐户2-B18KA7698",
+            "password": "Xdf1234",
+            "channelType": "baidu_sem",
+            "status": "1",
+            "appId": "4attrjitzjsx",
+            "customId": null
+        },
+        {
+            "accountId": "91",
+            "companyId": "15",
+            "username": "baidu-在线帐户1-B18KA7698",
+            "password": "Xdf1234",
+            "channelType": "baidu_sem",
+            "status": "1",
+            "appId": "4attrjitzjsx",
+            "customId": null
+        },
+        {
+            "accountId": "98",
+            "companyId": "18",
+            "username": "zhangmengyao@mango-go.com",
+            "password": "Momo123-",
+            "channelType": "toutiao",
+            "status": "1",
+            "appId": "4sb1ficn1dz5",
+            "customId": null
+        },
+        {
+            "accountId": "99",
+            "companyId": "15",
+            "username": "baidu-新东方在线医学-2134719",
+            "password": "Xdf1234",
+            "channelType": "baidu_sem",
+            "status": "0",
+            "appId": "4attrjitzjsx",
+            "customId": null
+        }
+    ]
+}

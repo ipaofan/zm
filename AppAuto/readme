@@ -1,0 +1,13 @@
+phone_wall.py业务功能：
+利用airtest,poco库，
+实现python控制手机，模拟刷今日头条APP
+符合业务需求的数据清洗存入本地
+
+
+wechat_test1.py业务功能：
+利用appnium库，实现自动化控制手机app
+
+
+tasks.py业务功能：
+使用celery做定时任务，可以在定制化的时间点刷手机app
+

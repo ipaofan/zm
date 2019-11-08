@@ -1,0 +1,15 @@
+{
+    "results": [
+        {
+            "code": 200,
+            "username": "3228705757",
+            "password": "szyyb2016",
+            "custom_id": "2677129",
+            "account_id": "44",
+            "token": {
+                "cookie": "portalversion=new;atlas_platform=CPD;gdt_token=TGT-31919-g0OaRrkSozmOJdLhqK_z2cR6ajAifp7nu6tfkb4VKcQDYCJCq_nYPbPfo5d8Q0Zy;gdt_protect=7dd98554e0e0ec7c4067f38899f2c4f14997fc48",
+                "tk": "//mp.e.qq.com/abc/qrcode?uid=2677129&g_tk=582594211&fans_code=ATALS-2001&timestamp=1569217024987"
+            }
+        }
+    ]
+}

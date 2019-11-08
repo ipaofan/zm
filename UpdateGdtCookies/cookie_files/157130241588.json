@@ -1,0 +1,15 @@
+{
+    "results": [
+        {
+            "code": 200,
+            "username": "1350979618",
+            "password": "qqmusic1234",
+            "custom_id": null,
+            "account_id": "173",
+            "token": {
+                "cookie": "portalversion=new;atlas_platform=atlas;gdt_token=TGT-83207-tM5oPrSz7asHk62f00dmE8zqjgooDV7p34B_BBZjOdEvZx0KKsg8s3BYteqEnMGv;gdt_protect=b2f554e8dab694fd404775ab84c56183c02dac27",
+                "tk": "//mp.e.qq.com/abc/qrcode?uid=8188371&g_tk=195707960&fans_code=ATALS-2001&timestamp=1569217024987"
+            }
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "results": [
+        {
+            "code": 200,
+            "username": "2906823864",
+            "password": "plumzmkj1234",
+            "custom_id": null,
+            "account_id": "168",
+            "token": {
+                "cookie": "portalversion=new;atlas_platform=atlas;gdt_token=TGT-29238-twbhcArQTuSmQ98O1uhVPSuTc9HAJE482QOZz93mCcBJ87ZP8yVjGhgw6Phng.sB;gdt_protect=d8d955a3e683870bae737fb289f84e181bbb1242",
+                "tk": "//mp.e.qq.com/abc/qrcode?uid=9797810&g_tk=2101594613&fans_code=ATALS-2001&timestamp=1569217024987"
+            }
+        },
+        {
+            "code": 600,
+            "username": "2827991059",
+            "password": "Plumzmkj1234",
+            "custom_id": null,
+            "account_id": "169",
+            "token": {
+                "cookie": null,
+                "tk": null
+            }
+        },
+        {
+            "code": 600,
+            "username": "1350979618",
+            "password": "qqmusic1234",
+            "custom_id": null,
+            "account_id": "173",
+            "token": {
+                "cookie": null,
+                "tk": null
+            }
+        },
+        {
+            "code": 600,
+            "username": "3478628992",
+            "password": "yazhou123",
+            "custom_id": null,
+            "account_id": "20190508175803MA000096",
+            "token": {
+                "cookie": null,
+                "tk": null
+            }
+        },
+        {
+            "code": 600,
+            "username": "1707945589",
+            "password": "Qn123@mango",
+            "custom_id": null,
+            "account_id": "20190508175910MA000097",
+            "token": {
+                "cookie": null,
+                "tk": null
+            }
+        },
+        {
+            "code": 600,
+            "username": "3466874465",
+            "password": "yazhou123",
+            "custom_id": null,
+            "account_id": "20190603171119MA000139",
+            "token": {
+                "cookie": null,
+                "tk": null
+            }
+        },
+        {
+            "code": 600,
+            "username": "2574425429",
+            "password": "Zmkj123@mango",
+            "custom_id": null,
+            "account_id": "20190624100753MA000286",
+            "token": {
+                "cookie": null,
+                "tk": null
+            }
+        },
+        {
+            "code": 600,
+            "username": "3553724015",
+            "password": "txyy2016",
+            "custom_id": null,
+            "account_id": "20190628160830MA000321",
+            "token": {
+                "cookie": null,
+                "tk": null
+            }
+        }
+    ]
+}

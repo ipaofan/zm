@@ -1,0 +1,17 @@
+{'accountId': '168', 'companyId': '44', 'username': '2906823864', 'password': 'plumzmkj1234', 'channelType': 'gdt', 'status': '1', 'appId': '5qjimfdry39j', 'customId': None}
+{'accountId': '169', 'companyId': '44', 'username': '2827991059', 'password': 'Plumzmkj1234', 'channelType': 'gdt', 'status': '1', 'appId': '5qjimfdry39j', 'customId': None}
+{'accountId': '173', 'companyId': '10', 'username': '1350979618', 'password': 'qqmusic1234', 'channelType': 'gdt', 'status': '1', 'appId': '41pg8vjnloub', 'customId': None}
+{'accountId': '20190508175803MA000096', 'companyId': '20190508175017AD000093', 'username': '3478628992', 'password': 'yazhou123', 'channelType': 'gdt', 'status': '1', 'appId': 'p4aL8fC3JM4u', 'customId': None}
+{'accountId': '20190508175910MA000097', 'companyId': '20190508175017AD000093', 'username': '1707945589', 'password': 'Qn123@mango', 'channelType': 'gdt', 'status': '1', 'appId': 'p4aL8fC3JM4u', 'customId': None}
+{'accountId': '20190603171119MA000139', 'companyId': '20190603170943AD000137', 'username': '3466874465', 'password': 'yazhou123', 'channelType': 'gdt', 'status': '1', 'appId': 't1YXzr06zR6a', 'customId': None}
+{'accountId': '20190624100753MA000286', 'companyId': '42', 'username': '2574425429', 'password': 'Zmkj123@mango', 'channelType': 'gdt', 'status': '1', 'appId': '5oscsevdflky', 'customId': None}
+{'accountId': '20190628160830MA000321', 'companyId': '10', 'username': '3553724015', 'password': 'txyy2016', 'channelType': 'gdt', 'status': '1', 'appId': '41pg8vjnloub', 'customId': None}
+{'accountId': '20190726154318MA000516', 'companyId': '20190603170943AD000137', 'username': '2392656748', 'password': 'yazhou123', 'channelType': 'gdt', 'status': '1', 'appId': 't1YXzr06zR6a', 'customId': None}
+{'accountId': '20190726154351MA000517', 'companyId': '20190603170943AD000137', 'username': '1994739861', 'password': 'yazhou123', 'channelType': 'gdt', 'status': '1', 'appId': 't1YXzr06zR6a', 'customId': None}
+{'accountId': '20190726154548MA000518', 'companyId': '42', 'username': '2781711175', 'password': 'yazhou123', 'channelType': 'gdt', 'status': '1', 'appId': '5oscsevdflky', 'customId': None}
+{'accountId': '20190820101959MA000718', 'companyId': '42', 'username': '2593187694', 'password': 'yazhou123', 'channelType': 'gdt', 'status': '1', 'appId': '5oscsevdflky', 'customId': None}
+{'accountId': '20190917110337MA000945', 'companyId': '42', 'username': '1516509438', 'password': 'yazhou123', 'channelType': 'gdt', 'status': '1', 'appId': '5oscsevdflky', 'customId': None}
+{'accountId': '20190917110358MA000946', 'companyId': '42', 'username': '2839477272', 'password': 'yazhou123', 'channelType': 'gdt', 'status': '1', 'appId': '5oscsevdflky', 'customId': None}
+{'accountId': '20190917110427MA000947', 'companyId': '42', 'username': '676341152', 'password': 'yazhou123', 'channelType': 'gdt', 'status': '1', 'appId': '5oscsevdflky', 'customId': None}
+{'accountId': '20190917110449MA000948', 'companyId': '42', 'username': '1047969347', 'password': 'yazhou123', 'channelType': 'gdt', 'status': '1', 'appId': '5oscsevdflky', 'customId': None}
+{'accountId': '44', 'companyId': '10', 'username': '3228705757', 'password': 'szyyb2016', 'channelType': 'gdt', 'status': '1', 'appId': '41pg8vjnloub', 'customId': None}
